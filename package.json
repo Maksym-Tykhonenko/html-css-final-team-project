@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "homepage": "https://Maksym-Tykhonenko.github.io/html-css-final-team-project",
+  
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /html-css-final-team-project/"
